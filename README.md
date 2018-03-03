@@ -1,8 +1,5 @@
-# Awesome Blockchain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 >  收集所有区块链(BlockChain)技术开发相关资料
-
-*请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) *
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -196,10 +193,8 @@
 
 Fabric联盟链相关详细开发资源收集
 
-## 赞助
+## 公号
 
-## License
+bijiemaoji 币界猫姬
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Chaozh](http://www.chaozh.com) has waived all copyright and related or neighboring rights to this work.
+![image text](https://raw.githubusercontent.com/chaojimiaomiao/awesome-blockchain/master/qrcode_for_gh_432219299696_344.jpg)
